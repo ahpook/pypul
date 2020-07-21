@@ -1,0 +1,3 @@
+name: pypul
+runtime: python
+description: It's python and it's pulumi, so it's PyPul
