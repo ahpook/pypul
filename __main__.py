@@ -7,4 +7,4 @@ bucket = storage.Bucket('my-bucket')
 # Export the DNS name of the bucket
 pulumi.export('bucket_name',  bucket.url)
 
-# exit
+# cleanly exit
